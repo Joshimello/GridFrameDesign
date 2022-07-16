@@ -14,3 +14,4 @@ Doesnt really work on touchscreen devices mostly mobile
 - Language switching
 - Theme switching
 - Music
+- Corner navigation arrows
