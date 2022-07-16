@@ -8,7 +8,7 @@ Doesnt really work on touchscreen devices mostly mobile
 - JQuery
 - JQuery-UI
 - [JS-Cookie](https://github.com/js-cookie/js-cookie)
-- Font Awesome
+- Font Awesome (I used pro version so some icons wont render)
 
 ## Incomplete funtions
 - Language switching
