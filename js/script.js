@@ -38,11 +38,11 @@ $(window).on('load', () => {
 })
 
 // LOAD IN
-$('[name=0]').load('../html/home.html')
-$('[name=2]').load('../html/about.html')
-$('[name=4]').load('../html/works.html')
-$('[name=6]').load('../html/links.html')
-$('[name=8]').load('../html/somewhere.html')
+$('[name=0]').load('html/home.html')
+$('[name=2]').load('html/about.html')
+$('[name=4]').load('html/works.html')
+$('[name=6]').load('html/links.html')
+$('[name=8]').load('html/somewhere.html')
 
 // CLICK MENU
 settings = {
