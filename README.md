@@ -4,6 +4,7 @@ Kinda like powerpoint but cool
 Doesnt really work on touchscreen devices mostly mobile
 
 ** Add "#0" behind the url if not working
+** Settings icon is at the bottom-left corner
 ## Used libraries
 - JQuery
 - JQuery-UI
