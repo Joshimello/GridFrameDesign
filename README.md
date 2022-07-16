@@ -6,5 +6,10 @@ Doesnt really work on touchscreen devices mostly mobile
 ## Used libraries
 - JQuery
 - JQuery-UI
-- JS Cookie
+- [JS-Cookie](https://github.com/js-cookie/js-cookie)
 - Font Awesome
+
+## Incomplete funtions
+- Language switching
+- Theme switching
+- Music
