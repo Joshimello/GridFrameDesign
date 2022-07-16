@@ -1,0 +1,32 @@
+/*
+made with 🤪 by Joshimello
+*/
+@font-face {
+    font-family: 'Noto1';
+    src: url('../asset/NotoSansJP-Thin.otf');
+}
+
+@font-face {
+    font-family: 'Noto2';
+    src: url('../asset/NotoSansJP-Light.otf');
+}
+
+@font-face {
+    font-family: 'Noto3';
+    src: url('../asset/NotoSansJP-Regular.otf');
+}
+
+@font-face {
+    font-family: 'Mono1';
+    src: url('../asset/NotoSansMono-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'Mono2';
+    src: url('../asset/NotoSansMono-ExtraLight.ttf');
+}
+
+@font-face {
+    font-family: 'Mono3';
+    src: url('../asset/NotoSansMono-Light.ttf');
+}
